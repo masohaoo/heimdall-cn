@@ -1,3 +1,3 @@
 # heimdall-cn
 
-  From Heimdall, Add Chinese Language & Baidu Search Provider!
+  From linuxserver/Heimdall, Add Chinese Language & Baidu Search Provider!
